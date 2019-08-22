@@ -47,8 +47,8 @@ double evaluatePrefix(string exprsn)
 int main() 
 { 
 	string exprsn = "+9*26"; 
-  cout<<"Arryan Sinha";
-  cout<<"RA1811029010036";
+  cout<<"Arryan Sinha"<<endl;
+  cout<<"RA1811029010036"<<endl;
 	cout << evaluatePrefix(exprsn) << endl; 
 	return 0; 
 } 
