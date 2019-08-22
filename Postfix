@@ -75,8 +75,8 @@ int evaluatePostfix(char* exp)
 int main() 
 { 
 	char exp[] = "231*+9-"; 
-  cout<<"Arryan Sinha";
-  cout<<"RA1811029010036";
+  cout<<"Arryan Sinha"<<endl;
+  cout<<"RA1811029010036"<<endl;
 	cout<<"postfix evaluation: "<< evaluatePostfix(exp); 
 	return 0; 
 } 
